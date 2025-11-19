@@ -23,7 +23,7 @@ display: flex;/* Utilise flexbox pour aligner les éléments enfants - https://d
 gap: 16px ;/* Espace entre les éléments enfants 16px- https://developer.mozilla.org/fr/docs/Web/CSS/gap */
 align-items: center;  /* Aligne les éléments enfants au centre verticalement - https://developer.mozilla.org/fr/docs/Web/CSS/align-items */
 justify-content: center;  /* Centre les éléments enfants horizontalement - https://developer.mozilla.org/fr/docs/Web/CSS/justify-content */
-margin: top:16px bottom: 16px ;  /* Marge de 16px en haut et en bas - https://developer.mozilla.org/fr/docs/Web/CSS/margin */
+margin-top: 16px;  /* Marge de 16px en haut et en bas - https://developer.mozilla.org/fr/docs/Web/CSS/margin */
 }
 .carousel__button {
 width: 50px;  /* Largeur du bouton 50px - https://developer.mozilla.org/fr/docs/Web/CSS/width */
